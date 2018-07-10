@@ -2,7 +2,7 @@
  * String.cpp
  *
  *  Created on: Jul 7, 2018
- *      Author: justi
+ *      Author: Nathaniel Parizi
  */
 
 #include <iostream>
